@@ -1,23 +1,25 @@
 # Hello, I am Caren 👋
 
-(![WhatsApp Image 2024-09-03 at 17 19 41_d61e6aca](https://github.com/user-attachments/assets/d59658aa-da58-44c2-9de1-dca44394d17b)
-) <!-- Replace with the URL or path to your picture -->
-
-I am happy to see you visit my profile! 😊
+<p align="center">
+  <strong>Hello, I am Caren, and I am happy to see you visit! 😊</strong>
+</p>
 
 ---
 
 ### 👩‍💻 About Me
-I'm Caren Chepkoech, a software engineer passionate about web design, mobile development, and graphic design. I'm skilled in:
-- HTML, CSS, JavaScript, PHP
-- Building interactive, user-friendly websites
-- Creating stylish and colorful designs
+I'm Caren Chepkoech, a **Software Engineer** skilled in:
+- 🌐 **Web Development**: HTML, CSS, JavaScript, PHP
+- 📱 **Mobile Development**
+- 🎨 **Graphic Design**
 
-
-
-Feel free to connect with me or explore my repositories to learn more about my work. Let's build something amazing together!
+I enjoy creating **interactive**, **user-friendly** websites with colorful and stylish designs that are accessible and responsive!
 
 ---
 
-Thanks for stopping by! 😄
 
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/caren-chepkoech-474924266)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/your-profile)](https://instagram.com/kigen_chepkoech/profilecard/?igsh=cXdpOGVlbnZ2bW1m)
+---
+
+<p align="center">✨ Thanks for stopping by! ✨</p>
